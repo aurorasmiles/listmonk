@@ -1,9 +1,6 @@
 name: Build Sanity Check
 
-on:
-    pull_request:
-      types:
-        - opened
+on: push
   
 jobs:
   build:
