@@ -23,7 +23,7 @@ require (
 	github.com/knadh/koanf/v2 v2.1.1
 	github.com/knadh/paginator v1.0.1
 	github.com/knadh/smtppool v1.2.0
-	github.com/knadh/stuffbin v1.1.0
+	github.com/knadh/stuffbin v1.3.0
 	github.com/labstack/echo/v4 v4.12.0
 	github.com/lib/pq v1.10.9
 	github.com/paulbellamy/ratecounter v0.2.0
