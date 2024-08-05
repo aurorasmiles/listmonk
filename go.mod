@@ -29,7 +29,7 @@ require (
 	github.com/paulbellamy/ratecounter v0.2.0
 	github.com/rhnvrm/simples3 v0.8.3
 	github.com/spf13/pflag v1.0.5
-	github.com/yuin/goldmark v1.6.0
+	github.com/yuin/goldmark v1.7.4
 	github.com/zerodha/easyjson v1.0.0
 	golang.org/x/mod v0.17.0
 	gopkg.in/volatiletech/null.v6 v6.0.0-20170828023728-0bef4e07ae1b
