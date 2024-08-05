@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/disintegration/imaging v1.6.2
-	github.com/emersion/go-message v0.16.0
+	github.com/emersion/go-message v0.18.1
 	github.com/gdgvda/cron v0.2.0
 	github.com/gofrs/uuid/v5 v5.0.0
 	github.com/gorilla/feeds v1.1.1
