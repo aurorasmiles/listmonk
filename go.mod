@@ -7,7 +7,7 @@ require (
 	github.com/disintegration/imaging v1.6.2
 	github.com/emersion/go-message v0.16.0
 	github.com/gdgvda/cron v0.2.0
-	github.com/gofrs/uuid/v5 v5.0.0
+	github.com/gofrs/uuid/v5 v5.2.0
 	github.com/gorilla/feeds v1.1.1
 	github.com/jmoiron/sqlx v1.3.5
 	github.com/knadh/go-pop3 v0.3.0
