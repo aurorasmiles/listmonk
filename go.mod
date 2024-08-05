@@ -8,7 +8,7 @@ require (
 	github.com/emersion/go-message v0.18.1
 	github.com/gdgvda/cron v0.2.0
 	github.com/gofrs/uuid/v5 v5.2.0
-	github.com/gorilla/feeds v1.1.1
+	github.com/gorilla/feeds v1.2.0
 	github.com/jmoiron/sqlx v1.3.5
 	github.com/knadh/go-pop3 v1.0.0
 	github.com/knadh/goyesql/v2 v2.2.0
