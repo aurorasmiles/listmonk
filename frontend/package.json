@@ -10,7 +10,7 @@
     "prebuild": "eslint --ext .js,.vue --ignore-path .gitignore src"
   },
   "dependencies": {
-    "@tinymce/tinymce-vue": "^3",
+    "@tinymce/tinymce-vue": "^6.0.0",
     "axios": "^1.6.2",
     "buefy": "^0.9.25",
     "bulma": "^0.9.4",
