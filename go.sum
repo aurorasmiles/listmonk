@@ -23,6 +23,8 @@ github.com/gdgvda/cron v0.2.0/go.mod h1:VEwidZXB255kESB5DcUGRWTYZS8KkOBYD1YBn8Wi
 github.com/go-sql-driver/mysql v1.4.0/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
 github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
 github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/go-viper/mapstructure/v2 v2.0.0-alpha.1 h1:TQcrn6Wq+sKGkpyPvppOz99zsMBaUOKXq6HSv655U1c=
+github.com/go-viper/mapstructure/v2 v2.0.0-alpha.1/go.mod h1:oJDH3BJKyqBA2TXFhDsKDGDTlndYOZ6rGS0BRZIxGhM=
 github.com/gofrs/uuid/v5 v5.0.0 h1:p544++a97kEL+svbcFbCQVM9KFu0Yo25UoISXGNNH9M=
 github.com/gofrs/uuid/v5 v5.0.0/go.mod h1:CDOjlDMVAtN56jqyRUZh58JT31Tiw7/oQyEXZV+9bD8=
 github.com/golang-jwt/jwt v3.2.2+incompatible h1:IfV12K8xAKAnZqdXVzCZ+TOjboZ2keLg81eXfW3O+oY=
@@ -68,6 +70,8 @@ github.com/knadh/koanf/providers/rawbytes v0.1.0 h1:dpzgu2KO6uf6oCb4aP05KDmKmAmI
 github.com/knadh/koanf/providers/rawbytes v0.1.0/go.mod h1:mMTB1/IcJ/yE++A2iEZbY1MLygX7vttU+C+S/YmPu9c=
 github.com/knadh/koanf/v2 v2.0.1 h1:1dYGITt1I23x8cfx8ZnldtezdyaZtfAuRtIFOiRzK7g=
 github.com/knadh/koanf/v2 v2.0.1/go.mod h1:ZeiIlIDXTE7w1lMT6UVcNiRAS2/rCeLn/GdLNvY1Dus=
+github.com/knadh/koanf/v2 v2.1.1 h1:/R8eXqasSTsmDCsAyYj+81Wteg8AqrV9CP6gvsTsOmM=
+github.com/knadh/koanf/v2 v2.1.1/go.mod h1:4mnTRbZCK+ALuBXHZMjDfG9y714L7TykVnZkXbMU3Es=
 github.com/knadh/paginator v1.0.1 h1:mzbhjx167qRpvv9ym7BBaaNa1//qXU2YKk7mTmSmW9o=
 github.com/knadh/paginator v1.0.1/go.mod h1:NDzJofYUQiHbDrWukKRi3E2vIKb0dzOZKY8VmxbM2Sk=
 github.com/knadh/smtppool v1.1.0 h1:J7RB3PpNQW/STnJ6JXlNZLfuNsgJu2VILV+CHWnc/j8=
