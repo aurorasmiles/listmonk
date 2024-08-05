@@ -1,12 +1,14 @@
 module github.com/knadh/listmonk
 
-go 1.20
+go 1.21
+
+toolchain go1.22.5
 
 require (
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/disintegration/imaging v1.6.2
 	github.com/emersion/go-message v0.18.1
-	github.com/gdgvda/cron v0.2.0
+	github.com/gdgvda/cron v0.3.0
 	github.com/gofrs/uuid/v5 v5.2.0
 	github.com/gorilla/feeds v1.1.1
 	github.com/jmoiron/sqlx v1.3.5
