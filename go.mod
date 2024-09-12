@@ -1,6 +1,6 @@
 module github.com/knadh/listmonk
 
-go 1.21
+go 1.22.0
 
 toolchain go1.23.1
 
@@ -33,7 +33,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/yuin/goldmark v1.7.4
 	github.com/zerodha/easyjson v1.0.0
-	golang.org/x/mod v0.20.0
+	golang.org/x/mod v0.21.0
 	gopkg.in/volatiletech/null.v6 v6.0.0-20170828023728-0bef4e07ae1b
 )
 
