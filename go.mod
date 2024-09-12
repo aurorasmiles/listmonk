@@ -2,7 +2,7 @@ module github.com/knadh/listmonk
 
 go 1.21
 
-toolchain go1.22.5
+toolchain go1.23.1
 
 require (
 	github.com/Masterminds/sprig/v3 v3.2.3
