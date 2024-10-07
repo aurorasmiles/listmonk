@@ -34,7 +34,7 @@ require (
 	github.com/yuin/goldmark v1.7.4
 	github.com/zerodha/easyjson v1.0.1
 	golang.org/x/mod v0.21.0
-	gopkg.in/volatiletech/null.v6 v6.0.0-20170828023728-0bef4e07ae1b
+	gopkg.in/volatiletech/null.v9 v9.0.0
 )
 
 require (
