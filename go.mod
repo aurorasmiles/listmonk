@@ -33,7 +33,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/yuin/goldmark v1.7.8
 	github.com/zerodha/easyjson v1.0.1
-	golang.org/x/mod v0.21.0
+	golang.org/x/mod v0.22.0
 	gopkg.in/volatiletech/null.v6 v6.0.0-20170828023728-0bef4e07ae1b
 )
 
