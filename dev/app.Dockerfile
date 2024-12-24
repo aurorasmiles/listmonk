@@ -1,6 +1,6 @@
 FROM golang:1.23 AS go
 
-FROM node:20 AS node
+FROM node:22 AS node
 
 COPY --from=go /usr/local/go /usr/local/go
 ENV GOPATH /go
