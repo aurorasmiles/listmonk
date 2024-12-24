@@ -26,7 +26,7 @@ require (
 	github.com/knadh/paginator v1.0.1
 	github.com/knadh/smtppool v1.2.1
 	github.com/knadh/stuffbin v1.3.0
-	github.com/labstack/echo/v4 v4.13.2
+	github.com/labstack/echo/v4 v4.13.3
 	github.com/lib/pq v1.10.9
 	github.com/paulbellamy/ratecounter v0.2.0
 	github.com/rhnvrm/simples3 v0.8.4
@@ -63,7 +63,7 @@ require (
 	github.com/valyala/fasttemplate v1.2.2 // indirect
 	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/image v0.18.0 // indirect
-	golang.org/x/net v0.32.0 // indirect
+	golang.org/x/net v0.33.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.8.0 // indirect
