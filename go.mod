@@ -7,7 +7,7 @@ toolchain go1.23.4
 require (
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/disintegration/imaging v1.6.2
-	github.com/emersion/go-message v0.18.1
+	github.com/emersion/go-message v0.18.2
 	github.com/gdgvda/cron v0.3.0
 	github.com/gofrs/uuid/v5 v5.3.0
 	github.com/gorilla/feeds v1.2.0
