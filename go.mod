@@ -31,7 +31,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/paulbellamy/ratecounter v0.2.0
 	github.com/rhnvrm/simples3 v0.9.1
-	github.com/spf13/pflag v1.0.7
+	github.com/spf13/pflag v1.0.10
 	github.com/yuin/goldmark v1.7.14
 	github.com/zerodha/easyjson v1.0.1
 	golang.org/x/mod v0.25.0
