@@ -30,7 +30,7 @@ require (
 	github.com/labstack/echo/v4 v4.15.0
 	github.com/lib/pq v1.10.9
 	github.com/paulbellamy/ratecounter v0.2.0
-	github.com/rhnvrm/simples3 v0.11.0
+	github.com/rhnvrm/simples3 v0.11.1
 	github.com/spf13/pflag v1.0.10
 	github.com/yuin/goldmark v1.7.16
 	github.com/zerodha/easyjson v1.0.1
