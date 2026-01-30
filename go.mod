@@ -28,7 +28,7 @@ require (
 	github.com/knadh/smtppool v1.3.0
 	github.com/knadh/stuffbin v1.3.0
 	github.com/labstack/echo/v4 v4.15.0
-	github.com/lib/pq v1.10.9
+	github.com/lib/pq v1.11.1
 	github.com/paulbellamy/ratecounter v0.2.0
 	github.com/rhnvrm/simples3 v0.11.1
 	github.com/spf13/pflag v1.0.10
