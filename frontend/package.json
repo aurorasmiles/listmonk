@@ -13,7 +13,7 @@
     "@tinymce/tinymce-vue": "^6.0.0",
     "axios": "^1.6.2",
     "buefy": "^0.9.25",
-    "bulma": "^0.9.4",
+    "bulma": "^1.0.0",
     "chart.js": "^4.4.1",
     "codeflask": "^1.4.1",
     "dayjs": "^1.11.10",
