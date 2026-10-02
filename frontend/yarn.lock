@@ -239,6 +239,36 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-2.0.3.tgz#4a2868d75d6d6963e423bcf90b7fd1be343409d3"
   integrity sha512-93zYdMES/c1D69yZiKDBj0V24vqNzB/koF26KPaagAfd3P/4gUlh3Dys5ogAK+Exi9QyzlD8x/08Zt7wIKcDcA==
 
+"@intlify/core-base@11.4.13":
+  version "11.4.13"
+  resolved "https://registry.yarnpkg.com/@intlify/core-base/-/core-base-11.4.13.tgz#6db0f3e1488b30cfceab7175bb1e2e22efe07a5d"
+  integrity sha512-3qGv1/j0fl6ZSeehGaznE78A4i3hCaOeOyDh7jq7SV6ch/XGoy96xIrYuALTV3xhIqj2rktsIKcwlLZ3CbOhkA==
+  dependencies:
+    "@intlify/devtools-types" "11.4.13"
+    "@intlify/message-compiler" "11.4.13"
+    "@intlify/shared" "11.4.13"
+
+"@intlify/devtools-types@11.4.13":
+  version "11.4.13"
+  resolved "https://registry.yarnpkg.com/@intlify/devtools-types/-/devtools-types-11.4.13.tgz#49fe57f2c8e967fc1094a93ac5751ec460334a86"
+  integrity sha512-f38d2yvjNc1/c+BnTLsxTB0729clTtyy7kTxHu4FFlvI6FpmBOp7b9sLYtsKJpXSZ70kIEexvNwDSzLkIlYnlQ==
+  dependencies:
+    "@intlify/core-base" "11.4.13"
+    "@intlify/shared" "11.4.13"
+
+"@intlify/message-compiler@11.4.13":
+  version "11.4.13"
+  resolved "https://registry.yarnpkg.com/@intlify/message-compiler/-/message-compiler-11.4.13.tgz#70bfe20b5c1ed90b60128f155cee33ba7ca1c2d8"
+  integrity sha512-cjKsDeWUD/i3mj0QtC8hydLCFP5mgZtTU1xZZaN9/O3FG94EXc0rTbecYpifglp26rpoJoIjSlW137VejLKsZw==
+  dependencies:
+    "@intlify/shared" "11.4.13"
+    source-map-js "^1.0.2"
+
+"@intlify/shared@11.4.13":
+  version "11.4.13"
+  resolved "https://registry.yarnpkg.com/@intlify/shared/-/shared-11.4.13.tgz#b803a658d2320c116fb1409ebd63d9775ae2280b"
+  integrity sha512-ZjcNgEED1FtTCFb+ohWBdR21k5kvleKtM9peobQtLB83mNIfEhJK86dEbhfk+OcUrybrEbc4eDeE9UbFUVHsjQ==
+
 "@kurkle/color@^0.3.0":
   version "0.3.4"
   resolved "https://registry.yarnpkg.com/@kurkle/color/-/color-0.3.4.tgz#4d4ff677e1609214fc71c580125ddddd86abcabf"
@@ -553,6 +583,11 @@
   version "6.6.3"
   resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.6.3.tgz#b23a588154cba8986bba82b6e1d0248bde3fd1a0"
   integrity sha512-0MiMsFma/HqA6g3KLKn+AGpL1kgKhFWszC9U29NfpWK5LE7bjeXxySWJrOJ77hBz+TBrBQ7o4QJqbPbqbs8rJw==
+
+"@vue/devtools-api@^6.5.0":
+  version "6.6.4"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.6.4.tgz#cbe97fe0162b365edc1dba80e173f90492535343"
+  integrity sha512-sGhTPMuXqZ1rVOk32RylztWkfXTRhuS7vgAKv0zjqk8gbsHkJ7xfFf+jbySxt7tWObEJwyKaHMikV/WGDiQm8g==
 
 "@vue/eslint-config-airbnb@^7.0.1":
   version "7.0.1"
@@ -3610,6 +3645,11 @@ slice-ansi@^8.0.0:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
 
+source-map-js@^1.0.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.2.tgz#79fb88d97535a21cb27162cb05d211b67acea4ab"
+  integrity sha512-KGj/8Y43x35aZVDtt+J4mK1hoLGHULMYfSkODJNQjNDC3oW1PqPoxMwo0pLUsWM/UEGzON/NxeHywEfNXNP3Vw==
+
 source-map@^0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
@@ -4030,10 +4070,15 @@ vue-eslint-parser@^9.0.1, vue-eslint-parser@^9.0.3, vue-eslint-parser@^9.4.3:
     lodash "^4.17.21"
     semver "^7.3.6"
 
-vue-i18n@^8.28.2:
-  version "8.28.2"
-  resolved "https://registry.yarnpkg.com/vue-i18n/-/vue-i18n-8.28.2.tgz#913558066e274395c0a9f40b2f3393d5c2636840"
-  integrity sha512-C5GZjs1tYlAqjwymaaCPDjCyGo10ajUphiwA922jKt9n7KPpqR7oM1PCwYzhB/E7+nT3wfdG3oRre5raIT1rKA==
+vue-i18n@^11.0.0:
+  version "11.4.13"
+  resolved "https://registry.yarnpkg.com/vue-i18n/-/vue-i18n-11.4.13.tgz#97ee42c5780b7cc1d3f3e60e3164a1ceb918967a"
+  integrity sha512-2G7LC9XcdZ0IljFib7lKGHNiBBOTv6HO+2bnBaOiQgDYZ+uUnqSpuED5DbBo1t7su50o/WRGn+ZfDQTGd26xEw==
+  dependencies:
+    "@intlify/core-base" "11.4.13"
+    "@intlify/devtools-types" "11.4.13"
+    "@intlify/shared" "11.4.13"
+    "@vue/devtools-api" "^6.5.0"
 
 vue-router@^3.2.0:
   version "3.6.5"
